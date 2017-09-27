@@ -1,0 +1,42 @@
+body{
+    background: url(http://subtlepatterns.com/patterns/subtlenet2.png);
+    font: 1em "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+            
+#error{
+    width: 175px;
+    padding: 15px;
+    margin: 5px auto;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+#show-box{
+    width: 1000px ;
+    padding: 5px;
+    margin: 5px auto;
+    background: #fff;
+    position: relative;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 3px;
+    border-radius: 3px;    
+    border: 1px solid #000;
+    box-shadow: 0 3px 20px rgba(0,0,0,.25);
+}    
+
+#error-go{
+    display: block;
+    width: 175px;
+    padding: 15px;
+    margin: 5px auto;
+}
+
+#mx2{
+    position: absolute;
+    left: 500px;
+    top: 110px;
+}

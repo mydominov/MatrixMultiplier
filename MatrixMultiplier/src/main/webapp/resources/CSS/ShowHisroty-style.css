@@ -1,0 +1,28 @@
+body{
+    background: url(http://subtlepatterns.com/patterns/subtlenet2.png);
+    font: 1em "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
+#show-box{
+    width: 160px ;
+    padding: 10px;
+    margin: 5px auto;
+    background: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    border: 1px solid #000;
+}   
+
+#history-label{
+    width: 100px;
+    border: 2px;
+    padding-left: 12px;
+    background-color: #bbb;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    color: white;
+}
